@@ -1,0 +1,13 @@
+Package: Gooogle
+Type: Package
+Title: Group Regularization for Zero-inflated Count Models
+Version: 0.0.1
+Date: 2017-09-11
+Author: Saptarshi Chatterjee <schatterjee@niu.edu>, Shrabanti Chowdhury <gg0658@wayne.edu> and Himel Mallick <hmallick@hsph.harvard.edu>
+Maintainer: Saptarshi Chatterjee <schatterjee@niu.edu>, Shrabanti Chowdhury <gg0658@wayne.edu>, and Himel Mallick <hmallick@hsph.harvard.edu>
+Description: Efficient algorithm for fitting zero inflated count models in the presence of intrinsic grouping structure in the covariate space. This  includes group level selection methods such as group lasso, group MCP and group SCAD and bi-level selection method such as group bridge.
+Depends: R (>= 3.5.1), MASS
+License: Harvard
+LazyData: TRUE
+Imports: pscl, grpreg, stringr, gamlss.dist
+RoxygenNote: 6.0.1
