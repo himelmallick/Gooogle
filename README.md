@@ -93,7 +93,7 @@ If you use `Gooogle` in your work, please cite the following papers:
 
 Chatterjee, S., Chowdhury, S., Mallick, H., Banerjee, P., and Garai, B. (2018). [Group Regularization for Zero-inflated Negative Binomial Regression Models with An Application to Healthcare Demand in Germany](https://www.ncbi.nlm.nih.gov/pubmed/29900575). Statistics in Medicine 37(20):3012-3026.
 
-Chowdhury, S., Chatterjee, S., Mallick, H., Banerjee, P., and Garai, B. (2019+). Group Regularization for Zero-inflated Poisson Regression Models with An Application to Insurance Ratemaking. Journal of Applied Statistics (Submitted).
+Chowdhury, S., Chatterjee, S., Mallick, H., Banerjee, P., and Garai, B. (2019). [Group Regularization for Zero-inflated Poisson Regression Models with An Application to Insurance Ratemaking](https://www.tandfonline.com/doi/abs/10.1080/02664763.2018.1555232?journalCode=cjas20). Journal of Applied Statistics 46(9):1567-1581.
 
 
 ## Contact
